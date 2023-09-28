@@ -1,3 +1,3 @@
-## Encapsulate-Axios-Tutorial
+## Encapsulate-Axios
 
 ### Axios + TypeScript + React
